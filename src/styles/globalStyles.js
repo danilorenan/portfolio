@@ -6,6 +6,8 @@ const GlobalStyle = createGlobalStyle`
         --dark: #312922;
         --soft: #603815;
         --hover: #504C48;
+        --dark-secondary: #3D2A1D;
+        --grey: #807269
     }
 
     * {
