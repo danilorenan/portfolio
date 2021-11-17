@@ -11,11 +11,9 @@ import { BannerContainer,
     ProfileContainer,
     InfosContainer,
     ContactButton,
-    BlobContainer,
     ScrollDown,
     ScrollDownContainer,
     ScrollDownText} from './styles'
-import ProfileImg from '../../assets/profile.jpg';
 import { Link } from 'react-scroll';
 import BlobProfile from '../../assets/blob.jpeg';
 

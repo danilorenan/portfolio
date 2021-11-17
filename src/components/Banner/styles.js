@@ -22,7 +22,7 @@ export const BannerContainer = styled.div`
     @media (max-width: 675px){
         padding: 0 3rem 0 3rem;
     }
-    @media (max-width: 495px){
+    @media (max-width: 589px){
         height: 45rem;
         padding: 0 1.5rem 0 1.5rem;
     }

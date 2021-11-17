@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import { IconDown, IconUp, IconFront, ItemFrontTitle, ItemFrontTitleContainer, SkillItemFront, SkillsContainer, SkillsItemsContainer, SkillsTitle,
+import { IconDown, IconUp, IconFront, ItemFrontTitle, ItemFrontTitleContainer, SkillItemFront, SkillsContainer, SkillsTitle,
         SkillItemBack, ItemBackTitleContainer, ItemBackTitle, IconBack, IconDesign,
         SkillItemDesign,ItemDesignTitleContainer, ItemDesignTitle, SkillListContainer, SkillListItemContainer, SkillItemInfo, ProgressLine } from './styles'
 import Grid from '@mui/material/Grid';
