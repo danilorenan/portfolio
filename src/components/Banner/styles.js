@@ -23,6 +23,7 @@ export const BannerContainer = styled.div`
         padding: 0 3rem 0 3rem;
     }
     @media (max-width: 495px){
+        height: 45rem;
         padding: 0 1.5rem 0 1.5rem;
     }
 `
@@ -31,9 +32,10 @@ export const SocialLinkContainer = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
+    
     @media (max-width: 320px) {
         height: 8rem;
-        margin-top: 5rem;
+        margin-top: 10rem;
     }
 `
 export const PerfilContainer = styled.div`
@@ -253,7 +255,7 @@ export const ProfileContainer = styled.div`
         top: 0;
         height: 8rem;
         width: 12rem;
-        margin: 8rem 10rem 0 0;
+        margin: 12rem 10rem 0 0;
     }
 
     @media (max-width: 435px){
@@ -263,12 +265,13 @@ export const ProfileContainer = styled.div`
     @media (max-width: 397px){
         margin-left: 4rem;
     }
-    @media (max-width: 372px){
+    @media (max-width: 375px){
         margin-left: 5.2rem;
+        margin-top: 12rem;
     }
     @media (max-width: 320px){
         margin-left: 6.5rem;
-        margin-top: 4rem;
+        margin-top: 9rem;
     }
 
     
